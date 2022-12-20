@@ -13,9 +13,9 @@ This is an official repository for [iiTransformer](https://bmvc2022.mpi-inf.mpg.
 -----
 
 iiTransformer is a general purpose backbone architecture for image restoration, where the goal is to recover a high quality (HQ) image from its degraded low quality (LQ) input. Some examples of image restoration include image denoising, compression artifact removal, and single image super-resolution. 
-![Image Restoration](/assets/img_restoration.pdf)
+![Image Restoration](/assets/img_restoration.png)
 Our approach exploits local and non-local information by utilizing information within the local vicinity of a degraded pixel as well as the data recurrence tendency in natural images. To this end, we use Transformers to capture long-range dependencies at the pixel- or patch-level by switching between intra and inter MSA in the Transformer layer with a reshape operation. We also provide a solution to support inferencing images with arbitrary resolutions without image rescaling or applying the sliding window approach. 
-![iiTransformer](/assets/iiTransformer.pdf)
+![iiTransformer](/assets/iiTransformer.png)
 
 
 ## Data Preparation 
