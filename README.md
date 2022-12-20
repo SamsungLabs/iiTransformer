@@ -4,7 +4,7 @@
 ([PDF](https://bmvc2022.mpi-inf.mpg.de/0377.pdf), 
 [Supplemental](https://bmvc2022.mpi-inf.mpg.de/0377_supp.pdf), 
 [Poster](https://bmvc2022.mpi-inf.mpg.de/0377_poster.pdf), 
-[Video](https://bmvc2022.mpi-inf.mpg.de/0377_video.mp4)) <br />
+[Video](https://bmvc2022.mpi-inf.mpg.de/0377_video.mp4))<br />
 Soo Min Kang, Youngchan Song, Hanul Shin, and Tammy Lee <br />
 Samsung Research <br />
 <br />
